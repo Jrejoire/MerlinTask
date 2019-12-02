@@ -1,12 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Palanquin&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Sintony&display=swap');
 a {
   color: inherit;
-}
-
-h1 {
-  font-family: 'Palanquin', sans-serif;
-  font-size: 16px;
 }
 
 .login {
@@ -20,7 +13,6 @@ h1 {
   height: 350px;
   width: 700px;
   border-radius: 15px;
-  font-family: 'Sintony', sans-serif;
 }
 
 .left-side {
@@ -30,15 +22,29 @@ h1 {
   width: 40%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   color: white;
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
-  ;
   background: no-repeat url("/asset1.jpg");
   background-size: auto 120%;
   background-position: 62% 95%;
+}
+
+.left-container {
+  position: absolute;
+  top: 45px;
+  left: 40px;
+}
+
+.title {
+  text-transform: uppercase;
+  width: 90%;
+  font-weight: lighter;
+  line-height: 25px;
+}
+
+.left-container > p {
+  line-height: 5px;
 }
 
 .right-side {
@@ -50,22 +56,10 @@ h1 {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
 }
 
-.oauth-container {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  width: 240px;
-  height: 40px;
-  text-decoration: none;
-  box-shadow: 0 3px 6px -1px rgba(0, 0, 0, 0.3);
-  border-radius: 5px;
-}
-
-.google-signin {
-  display: inline-block;
-  margin: 0 50px;
-  font-size: 12px;
+.logo {
+  margin: 10px auto 10px 15%;
+  width: max-content;
 }

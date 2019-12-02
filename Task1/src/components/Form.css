@@ -1,18 +1,20 @@
-h2 {
-    font-size: 0.8em;
-}
-
 .text-field {
     width: 300px;
-    height: 25px;
+    height: 20px;
 }
 
-button, .text-field {
-    display: block;
+h2 {
+    color: grey;
+    font-weight: lighter;
+    margin-bottom: -3px;
 }
 
 .register-button {
+    display: block;
     color: white;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size:14px;
     background-color: #8B1F8D !important;
     border-radius: 50px;
     height: 25px;
@@ -32,5 +34,24 @@ button:focus {
 .button-container {
     display: flex;
     justify-content: center;
-    padding: 10px;
+    padding: 15px;
+}
+
+.oauth-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 200px;
+    height: 30px;
+    text-decoration: none;
+    box-shadow: 0 3px 6px -1px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.google-signin {
+    display: inline-block;
+    margin: 0 40px;
+    color: grey;
+    font-size: 10px;
 }
