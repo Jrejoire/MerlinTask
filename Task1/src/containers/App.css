@@ -1,0 +1,14 @@
+.app {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  height: 100vh;
+  background: no-repeat url("/asset2.png");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 1em;
+}
