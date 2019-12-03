@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2dd3fcba87bc53b0f3999cb3d959fa1f",
+    "revision": "45780c03ca76bd5d2b24ebc232ffd591",
     "url": "/MerlinTask/index.html"
   },
   {
