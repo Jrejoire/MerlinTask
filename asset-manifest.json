@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MerlinTask/static/css/main.cecb16d9.chunk.css",
-    "main.js": "/MerlinTask/static/js/main.cdfced9c.chunk.js",
-    "main.js.map": "/MerlinTask/static/js/main.cdfced9c.chunk.js.map",
+    "main.js": "/MerlinTask/static/js/main.7bc2f8bd.chunk.js",
+    "main.js.map": "/MerlinTask/static/js/main.7bc2f8bd.chunk.js.map",
     "runtime-main.js": "/MerlinTask/static/js/runtime-main.b3915e8f.js",
     "runtime-main.js.map": "/MerlinTask/static/js/runtime-main.b3915e8f.js.map",
-    "static/js/2.ca13f2d2.chunk.js": "/MerlinTask/static/js/2.ca13f2d2.chunk.js",
-    "static/js/2.ca13f2d2.chunk.js.map": "/MerlinTask/static/js/2.ca13f2d2.chunk.js.map",
+    "static/js/2.12055406.chunk.js": "/MerlinTask/static/js/2.12055406.chunk.js",
+    "static/js/2.12055406.chunk.js.map": "/MerlinTask/static/js/2.12055406.chunk.js.map",
     "index.html": "/MerlinTask/index.html",
-    "precache-manifest.43c8a906007f90eb783885574e82818b.js": "/MerlinTask/precache-manifest.43c8a906007f90eb783885574e82818b.js",
+    "precache-manifest.ae6b0811cba2457f45b5ce0dba3f7595.js": "/MerlinTask/precache-manifest.ae6b0811cba2457f45b5ce0dba3f7595.js",
     "service-worker.js": "/MerlinTask/service-worker.js",
     "static/css/main.cecb16d9.chunk.css.map": "/MerlinTask/static/css/main.cecb16d9.chunk.css.map",
     "static/media/Login.css": "/MerlinTask/static/media/asset1.aa6ffae2.jpg",
@@ -16,8 +16,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b3915e8f.js",
-    "static/js/2.ca13f2d2.chunk.js",
+    "static/js/2.12055406.chunk.js",
     "static/css/main.cecb16d9.chunk.css",
-    "static/js/main.cdfced9c.chunk.js"
+    "static/js/main.7bc2f8bd.chunk.js"
   ]
 }

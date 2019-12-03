@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91b3cd79e3331cb85f0aa71fa3381cbb",
+    "revision": "3555379e8ad69a0614a33890b2dd0477",
     "url": "/MerlinTask/index.html"
   },
   {
-    "revision": "d1b5b59acdbc3e6ae032",
+    "revision": "1548b7afca7f8700902f",
     "url": "/MerlinTask/static/css/main.cecb16d9.chunk.css"
   },
   {
-    "revision": "f3f15089cbd44eb97838",
-    "url": "/MerlinTask/static/js/2.ca13f2d2.chunk.js"
+    "revision": "33e4e7585632b1093fbc",
+    "url": "/MerlinTask/static/js/2.12055406.chunk.js"
   },
   {
-    "revision": "d1b5b59acdbc3e6ae032",
-    "url": "/MerlinTask/static/js/main.cdfced9c.chunk.js"
+    "revision": "1548b7afca7f8700902f",
+    "url": "/MerlinTask/static/js/main.7bc2f8bd.chunk.js"
   },
   {
     "revision": "c0ccf9555c7784e71d93",
