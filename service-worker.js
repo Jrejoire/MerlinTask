@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MerlinTask/precache-manifest.a3908708696166c6373b45c0a77ce51e.js"
+  "/MerlinTask/precache-manifest.43c8a906007f90eb783885574e82818b.js"
 );
 
 self.addEventListener('message', (event) => {
