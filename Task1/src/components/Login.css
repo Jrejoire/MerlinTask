@@ -25,7 +25,7 @@ a {
   color: white;
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
-  background: no-repeat url("/asset1.jpg");
+  background: no-repeat url("./asset1.jpg");
   background-size: auto 120%;
   background-position: 62% 95%;
 }
@@ -62,4 +62,56 @@ a {
 .logo {
   margin: 10px auto 10px 15%;
   width: max-content;
+}
+
+@media only screen and (min-width: 378px) and (max-width: 700px) {
+  .login {
+    width: 90%;
+    top: 10%;
+  }
+  .left-container > p {
+    line-height: initial;
+  }
+  .title {
+    font-size: 20px;
+  }
+  .left-container {
+    left: 5%;
+  }
+}
+
+@media only screen and (max-width: 378px) {
+  .login {
+    display: flex;
+    align-items: space-evenly;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width: 90%;
+    min-height: 100vh;
+    top: 10%;
+  }
+  .left-container > p {
+    line-height: initial;
+  }
+  .left-side {
+    position: static;
+    height: 700px;
+    width: 100%;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 0px;
+  }
+  .right-side {
+    position: static;
+    width: 100%;
+    left: 0;
+  }
+  .left-container {
+    top: 0;
+    left: 50%;
+    width: fit-content;
+    transform: translate(-50%, 0);
+  }
+  .title {
+    width: min-content;
+  }
 }
