@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MerlinTask/static/css/main.84f4175b.chunk.css",
+    "main.css": "/MerlinTask/static/css/main.66864c29.chunk.css",
     "main.js": "/MerlinTask/static/js/main.cdfced9c.chunk.js",
     "main.js.map": "/MerlinTask/static/js/main.cdfced9c.chunk.js.map",
     "runtime-main.js": "/MerlinTask/static/js/runtime-main.b3915e8f.js",
@@ -8,14 +8,14 @@
     "static/js/2.ca13f2d2.chunk.js": "/MerlinTask/static/js/2.ca13f2d2.chunk.js",
     "static/js/2.ca13f2d2.chunk.js.map": "/MerlinTask/static/js/2.ca13f2d2.chunk.js.map",
     "index.html": "/MerlinTask/index.html",
-    "precache-manifest.2eb9c10219cd727a098773977516961d.js": "/MerlinTask/precache-manifest.2eb9c10219cd727a098773977516961d.js",
+    "precache-manifest.e0908f63dcbc44356c4fff983404f3df.js": "/MerlinTask/precache-manifest.e0908f63dcbc44356c4fff983404f3df.js",
     "service-worker.js": "/MerlinTask/service-worker.js",
-    "static/css/main.84f4175b.chunk.css.map": "/MerlinTask/static/css/main.84f4175b.chunk.css.map"
+    "static/css/main.66864c29.chunk.css.map": "/MerlinTask/static/css/main.66864c29.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.b3915e8f.js",
     "static/js/2.ca13f2d2.chunk.js",
-    "static/css/main.84f4175b.chunk.css",
+    "static/css/main.66864c29.chunk.css",
     "static/js/main.cdfced9c.chunk.js"
   ]
 }
