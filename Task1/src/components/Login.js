@@ -13,7 +13,7 @@ function Login() {
         </div>
       </div>
       <div className="right-side">
-        <img src="asset3.png" alt="logo" className="logo" />
+        <img src={require("./asset3.png")} alt="logo" className="logo" />
         <Form className="form" />
       </div>
     </div>
